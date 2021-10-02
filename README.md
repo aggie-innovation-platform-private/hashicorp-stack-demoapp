@@ -1,5 +1,7 @@
 # HashiCorp Demo Application with Boundary, Consul, & Vault on Kubernetes
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/487e5cac-0a93-47d7-83f5-e79a08ea07d9.svg)](https://app.soluble.cloud/repos/details/github.com/aggie-innovation-platform-private/hashicorp-stack-demoapp)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/b85eb821-8beb-4e04-a8c8-7363995fc8c7.svg)](https://app.soluble.cloud/repos/details/github.com/aggie-innovation-platform-private/hashicorp-stack-demoapp)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/8583b621-afd7-40ce-ae2e-48733ed08133.svg)](https://app.soluble.cloud/repos/details/github.com/aggie-innovation-platform-private/hashicorp-stack-demoapp)  
+
 This is the HashiCorp demo application on Amazon EKS. It incorporates the following
 tools:
 
